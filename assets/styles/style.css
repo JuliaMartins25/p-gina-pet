@@ -1,0 +1,12 @@
+.titulo {
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 5rem;
+}
+
+.card{
+    background-color: mediumaquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
