@@ -1,12 +1,17 @@
-.titulo {
-    text-align: center;
-    font-size: 3rem;
-    margin-top: 5rem;
+.centralizar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: mintcream;
 }
 
-.card{
-    background-color: mediumaquamarine;
+.centro {
+    margin-top: 50px;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+}
+
+h1, h2{
+    text-align: center;
 }
