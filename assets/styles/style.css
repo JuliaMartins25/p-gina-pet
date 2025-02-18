@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: mintcream;
+    background-color: pink;
 }
 
 .centro {
@@ -22,19 +22,22 @@ h1, h2{
     margin-top: 50px;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: mintcream;
+    background-color: pink;
 }
 
 .fileira{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: pink;
 }
 
 .segunda{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: pink;
+    height: 15rem;
 
 }
 
